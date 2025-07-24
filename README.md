@@ -1,2 +1,42 @@
-# EdgeDAM
-EdgeDAM: Real-time Distractor-Aware Object Tracking for Mobile Devices
+
+<!-- Title + authors -->
+# EdgeDAM: Real-time Distractor-Aware Object Tracking for Mobile Devices
+
+[Syed Muhammad Raza](https://www.linkedin.com/in/smraza1009/)* · [Syed Murtaza Hussain Abidi](https://www.linkedin.com/in/murtazahussain0/) · [Muhammad Ibrahim](https://www.linkedin.com/in/muhammad-ibrahim-83643b1a2/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=au) · [Ajmal Mian](https://ajmalsaeed.net/) 
+
+<!-- [Syed Muhammad Raza](https://www.linkedin.com/in/smraza1009/)¹²* · [Syed Murtaza Hussain Abidi](https://www.linkedin.com/in/murtazahussain0/)¹ · [Muhammad Ibrahim](https://www.linkedin.com/in/muhammad-ibrahim-83643b1a2/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=au)¹ · [Ajmal Mian](https://ajmalsaeed.net/)¹ -->
+ <!--¹ Meta Reality Labs · ² S-Lab, NTU  -->
+<!--\* Work done during an internship at Meta Reality Labs   -->
+<!--¹Meta Reality Labs · ²S-Lab, NTU · ³Univ. of Hong Kong · ⁴Feeling AI   -->
+<!--\* Work done during an internship at Meta Reality Labs -->
+
+<!-- “Badges” -->
+<!-- [![Paper](https://img.shields.io/badge/Paper–PDF-blue)](link-to-your-paper.pdf) -->
+<!--[![Demo](https://img.shields.io/badge/Demo–Live-green)](link-to-demo) -->
+<!-- [![BibTeX](https://img.shields.io/badge/BibTeX–copy-orange)](link-to-bibtex) -->
+
+---
+
+## Overview
+
+ EdgeDAM integrates a fast YOLOv11s detection backbone, a CSRT tracker, and an enhanced Distractor-Aware Memory (DAM) module specifically optimized for detection-driven occlusion handling.
+ EdgeDAM achieves state-of-the-art results running at **25 FPS** on **iPhone 14 Pro Max** and **iPhone 15 Pro Max**. 
+
+-
+
+<!-- Embedding a figure -->
+<p align="center">
+  <img src="./assets/speed_vs_perf.png" width="600px" alt="Speed‐performance tradeoff">
+  <br><em>Figure 1. Speed-performance trade-offs on iPhone (red) and A100 (blue).</em>
+</p>
+
+---
+
+## Abstarct
+
+Robust visual object tracking (VOT) under occlusion remains a fundamental challenge, particularly on mobile devices. Existing memory-based approaches effectively handle occlusion, but suffer from computational inefficiency due to the reliance on segmentation architectures that require significant processing power and memory. In this paper, we propose \textbf{EdgeDAM}, a lightweight and mobile-friendly framework for single-object tracking. EdgeDAM integrates a fast YOLOv11s detection backbone, a CSRT tracker, and an enhanced Distractor-Aware Memory (DAM) module specifically optimized for detection-driven occlusion handling. Unlike traditional segmentation-based memory methods, our DAM module employs IoU-guided filtering, area-consistent validation, confidence-aware distractor queuing, and dual-memory separation. These innovations significantly improve the target recovery and temporal stability without additional inference overhead. Extensive experiments demonstrate that EdgeDAM achieves state-of-the-art results, including 88.2% accuracy on the DiDi dataset, 84.9\% EAO on VOT2020, and 79.0\% EAO on VOT2022. It also obtains competitive performance on LaSOT (89.5% AUC), LaSOText (64.1% AUC), and GOT-10k (83.1% AO), running at 25 FPS on iPhone 14 Pro Max and iPhone 15 Pro Max. To the best of our knowledge, EdgeDAM is the first detection-centric memory-aware tracking method tailored for real-time occlusion recovery on edge devices. 
+
+
+
+
+
