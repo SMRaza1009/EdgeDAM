@@ -4,17 +4,6 @@
 
 [Syed Muhammad Raza](https://www.linkedin.com/in/smraza1009/)* · [Syed Murtaza Hussain Abidi](https://www.linkedin.com/in/murtazahussain0/) · [Muhammad Ibrahim](https://www.linkedin.com/in/muhammad-ibrahim-83643b1a2/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=au) · [Ajmal Mian](https://ajmalsaeed.net/) 
 
-<!-- [Syed Muhammad Raza](https://www.linkedin.com/in/smraza1009/)¹²* · [Syed Murtaza Hussain Abidi](https://www.linkedin.com/in/murtazahussain0/)¹ · [Muhammad Ibrahim](https://www.linkedin.com/in/muhammad-ibrahim-83643b1a2/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=au)¹ · [Ajmal Mian](https://ajmalsaeed.net/)¹ -->
- <!--¹ Meta Reality Labs · ² S-Lab, NTU  -->
-<!--\* Work done during an internship at Meta Reality Labs   -->
-<!--¹Meta Reality Labs · ²S-Lab, NTU · ³Univ. of Hong Kong · ⁴Feeling AI   -->
-<!--\* Work done during an internship at Meta Reality Labs -->
-
-<!-- “Badges” -->
-<!-- [![Paper](https://img.shields.io/badge/Paper–PDF-blue)](link-to-your-paper.pdf) -->
-<!--[![Demo](https://img.shields.io/badge/Demo–Live-green)](link-to-demo) -->
-<!-- [![BibTeX](https://img.shields.io/badge/BibTeX–copy-orange)](link-to-bibtex) -->
-
 ---
 
 ## Overview
