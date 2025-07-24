@@ -13,7 +13,7 @@
 
 ---
 <div align="center">
-## Code will be release soon!
+**Code will be release soon!**
 </div>
 ---
 
