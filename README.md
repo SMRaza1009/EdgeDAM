@@ -2,9 +2,18 @@
 <!-- Title + authors -->
 # EdgeDAM: Real-time Distractor-Aware Object Tracking for Mobile Devices
 
-<p align="center">
-[Syed Muhammad Raza](https://www.linkedin.com/in/smraza1009/)* · [Syed Murtaza Hussain Abidi](https://www.linkedin.com/in/murtazahussain0/) · [Muhammad Ibrahim](https://www.linkedin.com/in/muhammad-ibrahim-83643b1a2/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=au) · [Ajmal Mian](https://ajmalsaeed.net/) 
-</p>
+ <!-- <p align="center"> -->
+<!-- [Syed Muhammad Raza](https://www.linkedin.com/in/smraza1009/)* · [Syed Murtaza Hussain Abidi](https://www.linkedin.com/in/murtazahussain0/) · [Muhammad Ibrahim](https://www.linkedin.com/in/muhammad-ibrahim-<!-- 83643b1a2/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=au) · [Ajmal Mian](https://ajmalsaeed.net/) 
+<!-- </p> -->
+
+<div align="center">
+
+[Syed Muhammad Raza](https://www.linkedin.com/in/smraza1009/)* ·  
+[Syed Murtaza Hussain Abidi](https://www.linkedin.com/in/murtazahussain0/) ·  
+[Muhammad Ibrahim](https://www.linkedin.com/in/muhammad-ibrahim-83643b1a2/) ·  
+[Ajmal Mian](https://ajmalsaeed.net/)
+
+</div>
 
 ---
 
