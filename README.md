@@ -8,11 +8,7 @@
 
 <div align="center">
 
-[Syed Muhammad Raza](https://www.linkedin.com/in/smraza1009/)* ·  
-[Syed Murtaza Hussain Abidi](https://www.linkedin.com/in/murtazahussain0/) ·  
-[Muhammad Ibrahim](https://www.linkedin.com/in/muhammad-ibrahim-83643b1a2/) ·  
-[Ajmal Mian](https://ajmalsaeed.net/)
-
+[Syed Muhammad Raza](https://www.linkedin.com/in/smraza1009/)* ·  [Syed Murtaza Hussain Abidi](https://www.linkedin.com/in/murtazahussain0/) ·  [Muhammad Ibrahim](https://www.linkedin.com/in/muhammad-ibrahim-83643b1a2/) ·  [Ajmal Mian](https://ajmalsaeed.net/)
 </div>
 
 ---
