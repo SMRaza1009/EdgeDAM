@@ -12,9 +12,9 @@
 </div>
 
 ---
-<!-- <p align="center"> -->
+<div align="center">
 ## Code will be release soon!
-<!-- </p> -->
+</div>
 ---
 
 ## Overview
