@@ -9,9 +9,8 @@
 ## Overview
 
  EdgeDAM integrates a fast YOLOv11s detection backbone, a CSRT tracker, and an enhanced Distractor-Aware Memory (DAM) module specifically optimized for detection-driven occlusion handling.
- EdgeDAM achieves state-of-the-art results running at **25 FPS** on **iPhone 14 Pro Max** and **iPhone 15 Pro Max**. 
+ EdgeDAM achieves state-of-the-art results running at **25 FPS** on **iPhone 14 Pro Max** and **iPhone 15 Pro Max** 
 
--
 
 <!-- Embedding a figure -->
 <p align="center">
