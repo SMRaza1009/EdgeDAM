@@ -12,9 +12,8 @@
 </div>
 
 ---
-<div align="center">
-**Code will be release soon!**
-</div>
+
+## Code will be release soon!
 ---
 
 ## Overview
