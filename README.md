@@ -16,7 +16,8 @@
 
 <!-- Embedding a figure -->
 <p align="center">
- [![EdgeDAM overall system architecture composed of detection backbon of YOLO11s with CSRT tracker, DAM memory bank](./overall_architecture.png)](https://github.com/SMRaza1009/EdgeDAM/blob/main/overall_architecture.png)  <!--  <br><em>Figure 1. EdgeDAM overall system architecture composed of detection backbon of YOLO11s with CSRT tracker, DAM memory bank.</em> -->
+ <img src="overall_architecture.png" width="600px" alt="System architecture">
+ <br><em>Figure 1. EdgeDAM overall system architecture composed of detection backbon of YOLO11s with CSRT tracker, DAM memory bank.</em>
 </p>
 
 ---
