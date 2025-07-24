@@ -15,7 +15,7 @@
 <!-- Embedding a figure -->
 <p align="center">
   <img src="./assets/speed_vs_perf.png" width="600px" alt="Speed‐performance tradeoff">
-  <br><em>Figure 1. Speed-performance trade-offs on iPhone (red) and A100 (blue).</em>
+  <br><em>Figure 1. EdgeDAM overall system architecture composed of detection backbon of YOLO11s with CSRT tracker, DAM memory bank..</em>
 </p>
 
 ---
