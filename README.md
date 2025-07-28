@@ -31,7 +31,7 @@
 ---
 ## EdgeDAM Results
 <!-- “Badges” -->
- [[Results](https://drive.google.com/drive/folders/1j5353Z33XnB6Uc36m3C9Udivwi25W8W4?usp=sharing)
+ [[Results]](https://drive.google.com/drive/folders/1j5353Z33XnB6Uc36m3C9Udivwi25W8W4?usp=sharing)
 ---
 
 ## Abstarct
