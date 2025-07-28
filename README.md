@@ -25,7 +25,7 @@
 <!-- Embedding a figure -->
 <p align="center">
  <img src="Fig1.png" width="600px" alt="AccuracyVsFPS">
- <br><em>Figure 1. Comparison of EdgeDAM with SOTA, and EdgeDAM is 1.8x faster then recent methods.</em>
+ <!-- <br><em>Figure 1. Comparison of EdgeDAM with SOTA, and EdgeDAM is 1.8x faster then recent methods.</em> -->
 </p>
 
 ---
