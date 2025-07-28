@@ -24,10 +24,14 @@
 
 <!-- Embedding a figure -->
 <p align="center">
- <img src="fig1.png" width="600px" alt="AccuracyVsFPS">
+ <img src="Fig1.png" width="600px" alt="AccuracyVsFPS">
  <br><em>Figure 1. Comparison of EdgeDAM with SOTA, and EdgeDAM is 1.8x faster then recent methods.</em>
 </p>
 
+---
+## EdgeDAM Results
+<!-- “Badges” -->
+ [[Results](https://drive.google.com/drive/folders/1j5353Z33XnB6Uc36m3C9Udivwi25W8W4?usp=sharing)
 ---
 
 ## Abstarct
@@ -40,8 +44,24 @@ Robust visual object tracking (VOT) under occlusion remains a fundamental challe
 
 <!-- Embedding a figure -->
 <p align="center">
- <img src="overall_architecture.png" width="600px" alt="System architecture">
+ <img src="OverallSystemArchitecture.png" width="600px" alt="System architecture">
  <br><em>Figure 2. EdgeDAM overall system architecture composed of detection backbon of YOLO11s with CSRT tracker, DAM memory bank.</em>
+</p>
+
+## SOTA Benchmark Results
+
+<!-- Embedding a figure -->
+<p align="center">
+ <img src="SOTA-BenchmarkResults.png" width="600px" alt="System architecture">
+<!-- <br><em>Figure 2. EdgeDAM overall system architecture composed of detection backbon of YOLO11s with CSRT tracker, DAM memory bank.</em> -->
+</p>
+
+## Real-time Performance Results
+
+<!-- Embedding a figure -->
+<p align="center">
+ <img src="Real-timePerformanceResults.png" width="600px" alt="System architecture">
+<!-- <br><em>Figure 2. EdgeDAM overall system architecture composed of detection backbon of YOLO11s with CSRT tracker, DAM memory bank.</em> -->
 </p>
 
 
